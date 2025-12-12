@@ -12,6 +12,7 @@ public class CountOfNum {
 			count++;
 		}
 		System.out.println(count);
+		System.out.println("This is the way to find count of number");
 
 	}
 
