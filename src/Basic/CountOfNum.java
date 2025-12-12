@@ -13,6 +13,7 @@ public class CountOfNum {
 		}
 		System.out.println(count);
 		System.out.println("This is the way to find count of number");
+		System.out.println("Architect making changes 2");
 
 	}
 

@@ -10,6 +10,7 @@ public class sumOfTwoNum {
 		int sum=a+b;
 		
 		System.out.println(sum);
+		System.out.println("Architect making changes 3");
 
 	}
 
